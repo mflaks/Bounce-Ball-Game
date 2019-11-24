@@ -2,13 +2,14 @@ from tkinter import *
 import random
 import time
 
+# test
 root = Tk()
 root.title('Bounce')
 
 root.resizable(0,0)						# lock the window size (x and y)
 root.wm_attributes('-topmost',1)		# keep the window always in front all other applications
 
-canvas = Canvas(root, width = 500, height = 500, bd = 0 , highlightthickness = 0, bg= 'white')
+canvas = Canvas(root, width = 500, height = 500, bd =0 , highlightthickness = 0, bg= 'white')
 canvas.pack()
 root.update()
 
