@@ -10,5 +10,5 @@ You can choose as many balls as you want
 - add score to the game
 
 # How to run the code
-- install numpy
 - install tkinter 
+- run the code
