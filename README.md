@@ -1,6 +1,8 @@
 # Bounce
 The goal of this game is to keep the ball in the ar.
-You can choose as many balls as you want
+
+# Level of Difficult
+You can choose as many balls as you want. Just create a new ball class
 
 # Actions
 - `arrow to the right`
