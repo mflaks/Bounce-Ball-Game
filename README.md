@@ -10,6 +10,7 @@ You can choose as many balls as you want. Just create a new ball class
 
 # Future Implementation
 - add score to the game
+- develop the main Menu
 
 # How to run the code
 - install tkinter 
