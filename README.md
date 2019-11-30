@@ -13,5 +13,5 @@ You can choose as many balls as you want. Just create a new ball class
 - develop the main Menu
 
 # How to run the code
-- install tkinter 
+- pip install tkinter 
 - run the code
