@@ -16,4 +16,5 @@ You can choose as many balls as you want. Just create a new ball class
 ## Future Implementation
 - add score to the game
 - create the main Menu
+- use Deep Reinforcement Learning to play the game
 
