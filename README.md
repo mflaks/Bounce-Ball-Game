@@ -1,5 +1,5 @@
 # Bounce Ball Game
-The goal of this game is to keep the ball in the ar.
+The goal of this game is to keep the balls in the ar.
 
 ![Bounce](Bounce.JPG)
 
